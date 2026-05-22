@@ -25,13 +25,26 @@ Instalar os drivers de virtualização do pacote Guest Additions do VirtualBox p
 ## 📝 Entregáveis desta Etapa
 
 ### 📸 [EVIDÊNCIA]
-*Insira aqui uma captura de tela do Windows XP em "Modo Janela Redimensionada" ou em "Tela Cheia" dentro do VirtualBox, demonstrando que os drivers de vídeo e integração do mouse estão ativos de forma fluida.*
+<img width="1632" height="818" alt="image" src="https://github.com/user-attachments/assets/6066dbbc-a38b-41b2-b34f-0728e68c08de" />
+
 
 ### ❓ [QUESTÃO 3]
 Quais recursos técnicos específicos passam a funcionar entre o sistema operacional real (hospedeiro) e a máquina virtual do Windows XP (convidado) após a instalação correta dos "Adicionais de Convidado" (Guest Additions)?
 
 **Sua Resposta:**
-> 
+> Vídeo Automatizado: A resolução do Windows XP se ajusta instantaneamente ao esticar ou maximizar a janela do VirtualBox.
+
+Mouse Fluido: O cursor entra e sai da máquina virtual livremente, sem ficar "preso" dentro dela.
+
+Copiar e Colar (Clipboard): Ativa o Ctrl+C e Ctrl+V compartilhado de textos e arquivos entre o seu PC real e o XP.
+
+Pastas Compartilhadas: Permite acessar pastas do seu computador real diretamente dentro do XP como se fossem um "Disco Local" ou unidade de rede.
+
+Arrastar e Soltar: Você pode arrastar arquivos com o mouse do seu PC real e soltá-los dentro do XP.
+
+Modo Seamless: O fundo azul do XP fica invisível, fazendo com que as janelas dos programas do XP "flutuem" na área de trabalho do seu PC real.
+
+Hora Certa: O relógio da máquina virtual é sincronizado milimetricamente com o horário do seu computador principal.
 
 ---
 [⬅️ Voltar para a Etapa 2](02-tarefa-instalacao.md) | [Ir para a Etapa 4 ➡️](04-tarefa-troubleshooting-seguranca.md)
